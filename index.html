@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+  <header>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="ISO-8859-1">
+    <script src="index.js"> </script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  </header>
+
+  <body>
+    <h1>
+      Keyboard Layout Editor
+    </h1>
+    <div>
+      <label class="btn btn-secondary" for="keycap-display-int">
+        <input name="keycap-display" id="keycap-display-int" type="radio"
+               onclick="setKeycapMode('decimal')">
+        Integers
+      </label>
+      <label class="btn btn-secondary" for="keycap-display-hex">
+        <input name="keycap-display" id="keycap-display-hex" type="radio"
+               onclick="setKeycapMode('hex')">
+        Hex
+      </label>
+      <label class="btn btn-secondary" for="keycap-display-name">
+        <input name="keycap-display" id="keycap-display-name" type="radio"
+               onclick="setKeycapMode('name')">
+        Name
+      </label>
+      <label class="btn btn-secondary" for="keycap-display-matrix">
+        <input name="keycap-display" id="keycap-display-matrix" type="radio"
+               onclick="setKeycapMode('matrix')">
+        Matrix Position
+      </label>
+
+    </div>
+    <div id="pic">
+      <object type="image/svg+xml" data="keyboard.svg" id="keyboard-svg">
+      </object>
+    </div>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col">
+          Matrix Element (Row/Column):
+          <p id="hover">
+            Nothing yet
+          </p>
+        </div>
+
+        <div class="col">
+          Selected:
+          <p id="selected">
+            Nothing yet
+          </p> <!-- Selected -->
+        </div> <!-- col -->
+        <div class="col">
+          Keycode:
+          <input type=text id="selected-keycode" onkbenter="setSelectedKeycode()">
+          <button class="btn" onclick="setSelectedKeycode()">Set</button>
+        </div>
+      </div> <!-- row -->
+    </div>   <!-- container -->
+    <textarea id="layoutinput" cols="100" >Enter your layout here</textarea>
+    <button onclick="readLayout()">Set layout</button>
+  </body>
+</html>

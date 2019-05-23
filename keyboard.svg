@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" width="1380px" height="448.5px"
+     viewBox="0 0 1380 448.5"
+     xmlns="http://www.w3.org/2000/svg">
+  <style id="style7543" type="text/css">
+    .keycap .border { stroke: black; stroke-width: 1; }
+    .keycap .inner.border { stroke: rgba(0,0,0,.1); }
+    .keycap.dark .outer { fill: #8a8a8a; }
+    .keycap.dark .inner { fill: #a9a9a9; }
+    .keycap.light .outer { fill: #cccccc; }
+    .keycap.light .inner { fill: #fcfcfc; }
+    .keycap[selected] .outer { fill: #8a8aff; }
+    .keycap:hover .outer.border { stroke: rgba(150,30, 80, 0.8); stroke-width: 4;}
+  </style>
+  <g id="g8811" transform="translate(10,10)">
+    <rect fill="#eeeeee" height="428.5" rx="6" stroke="#ddd" stroke-width="1" width="1360"/>
+    <g id="gkeys" transform="translate(5,5)">
+      <g class="keycap dark" data-matrix-row="0" data-matrix-col="7" id="g7583">
+        <rect class="outer border" height="52" rx="5" width="52" x="190" y="1"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="196" y="4"/>
+      <text text-anchor="middle" x="216.0" y="29.0">F13</text></g>
+      <g class="keycap dark" data-matrix-row="1" data-matrix-col="7" id="g7593">
+        <rect class="outer border" height="52" rx="5" width="52" x="244" y="1"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="250" y="4"/>
+      <text text-anchor="middle" x="270.0" y="29.0">F14</text></g>
+      <g class="keycap dark" data-matrix-row="1" data-matrix-col="8" id="g7603">
+        <rect class="outer border" height="52" rx="5" width="52" x="298" y="1"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="304" y="4"/>
+      <text text-anchor="middle" x="324.0" y="29.0">F15</text></g>
+      <g class="keycap dark" data-matrix-row="2" data-matrix-col="7" id="g7613">
+        <rect class="outer border" height="52" rx="5" width="52" x="352" y="1"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="358" y="4"/>
+      <text text-anchor="middle" x="378.0" y="29.0">F16</text></g>
+      <g class="keycap light" data-matrix-row="3" data-matrix-col="7" id="g7623">
+        <rect class="outer border" height="52" rx="5" width="52" x="406" y="1"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="412" y="4"/>
+      <text text-anchor="middle" x="432.0" y="29.0">F17</text></g>
+      <g class="keycap light" data-matrix-row="3" data-matrix-col="8" id="g7633">
+        <rect class="outer border" height="52" rx="5" width="52" x="460" y="1"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="466" y="4"/>
+      <text text-anchor="middle" x="486.0" y="29.0">F18</text></g>
+      <g class="keycap light" data-matrix-row="4" data-matrix-col="7" id="g7643">
+        <rect class="outer border" height="52" rx="5" width="52" x="514" y="1"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="520" y="4"/>
+      <text text-anchor="middle" x="540.0" y="29.0">F19</text></g>
+      <g class="keycap light" data-matrix-row="5" data-matrix-col="7" id="g7653">
+        <rect class="outer border" height="52" rx="5" width="52" x="568" y="1"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="574" y="4"/>
+      <text text-anchor="middle" x="594.0" y="29.0">F20</text></g>
+      <g class="keycap dark" data-matrix-row="5" data-matrix-col="8" id="g7663">
+        <rect class="outer border" height="52" rx="5" width="52" x="622" y="1"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="628" y="4"/>
+      <text text-anchor="middle" x="648.0" y="29.0">F21</text></g>
+      <g class="keycap dark" data-matrix-row="6" data-matrix-col="7" id="g7673">
+        <rect class="outer border" height="52" rx="5" width="52" x="676" y="1"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="682" y="4"/>
+      <text text-anchor="middle" x="702.0" y="29.0">F22</text></g>
+      <g class="keycap dark" data-matrix-row="7" data-matrix-col="7" id="g7683">
+        <rect class="outer border" height="52" rx="5" width="52" x="730" y="1"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="736" y="4"/>
+      <text text-anchor="middle" x="756.0" y="29.0">F23</text></g>
+      <g class="keycap dark" data-matrix-row="7" data-matrix-col="8" id="g7693">
+        <rect class="outer border" height="52" rx="5" width="52" x="784" y="1"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="790" y="4"/>
+      <text text-anchor="middle" x="810.0" y="29.0">F24</text></g>
+      <g class="keycap dark" data-matrix-row="0" data-matrix-col="8" id="g7709">
+        <rect class="outer border" height="52" rx="5" width="52" x="190" y="55"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="196" y="58"/>
+      <text text-anchor="middle" x="216.0" y="83.0">F1</text></g>
+      <g class="keycap dark" data-matrix-row="0" data-matrix-col="9" id="g7719">
+        <rect class="outer border" height="52" rx="5" width="52" x="244" y="55"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="250" y="58"/>
+      <text text-anchor="middle" x="270.0" y="83.0">F2</text></g>
+      <g class="keycap dark" data-matrix-row="1" data-matrix-col="9" id="g7729">
+        <rect class="outer border" height="52" rx="5" width="52" x="298" y="55"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="304" y="58"/>
+      <text text-anchor="middle" x="324.0" y="83.0">F3</text></g>
+      <g class="keycap dark" data-matrix-row="2" data-matrix-col="8" id="g7739">
+        <rect class="outer border" height="52" rx="5" width="52" x="352" y="55"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="358" y="58"/>
+      <text text-anchor="middle" x="378.0" y="83.0">F4</text></g>
+      <g class="keycap light" data-matrix-row="2" data-matrix-col="9" id="g7749">
+        <rect class="outer border" height="52" rx="5" width="52" x="406" y="55"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="412" y="58"/>
+      <text text-anchor="middle" x="432.0" y="83.0">F5</text></g>
+      <g class="keycap light" data-matrix-row="3" data-matrix-col="9" id="g7759">
+        <rect class="outer border" height="52" rx="5" width="52" x="460" y="55"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="466" y="58"/>
+      <text text-anchor="middle" x="486.0" y="83.0">F6</text></g>
+      <g class="keycap light" data-matrix-row="4" data-matrix-col="8" id="g7769">
+        <rect class="outer border" height="52" rx="5" width="52" x="514" y="55"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="520" y="58"/>
+      <text text-anchor="middle" x="540.0" y="83.0">F7</text></g>
+      <g class="keycap light" data-matrix-row="4" data-matrix-col="9" id="g7779">
+        <rect class="outer border" height="52" rx="5" width="52" x="568" y="55"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="574" y="58"/>
+      <text text-anchor="middle" x="594.0" y="83.0">F8</text></g>
+      <g class="keycap dark" data-matrix-row="5" data-matrix-col="9" id="g7789">
+        <rect class="outer border" height="52" rx="5" width="52" x="622" y="55"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="628" y="58"/>
+      <text text-anchor="middle" x="648.0" y="83.0">F9</text></g>
+      <g class="keycap dark" data-matrix-row="6" data-matrix-col="8" id="g7799">
+        <rect class="outer border" height="52" rx="5" width="52" x="676" y="55"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="682" y="58"/>
+      <text text-anchor="middle" x="702.0" y="83.0">F10</text></g>
+      <g class="keycap dark" data-matrix-row="6" data-matrix-col="9" id="g7809">
+        <rect class="outer border" height="52" rx="5" width="52" x="730" y="55"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="736" y="58"/>
+      <text text-anchor="middle" x="756.0" y="83.0">F11</text></g>
+      <g class="keycap dark" data-matrix-row="7" data-matrix-col="9" id="g7819">
+        <rect class="outer border" height="52" rx="5" width="52" x="784" y="55"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="790" y="58"/>
+      <text text-anchor="middle" x="810.0" y="83.0">F12</text></g>
+      <g class="keycap dark" data-matrix-row="3" data-matrix-col="19" id="g7829">
+        <rect class="outer border" height="52" rx="5" width="52" x="1" y="149.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="7" y="152.5"/>
+      <text text-anchor="middle" x="27.0" y="177.5">NONE</text></g>
+      <g class="keycap dark" data-matrix-row="3" data-matrix-col="0" id="g7839">
+        <rect class="outer border" height="52" rx="5" width="52" x="55" y="149.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="61" y="152.5"/>
+      <text text-anchor="middle" x="81.0" y="177.5">ESC</text></g>
+      <g class="keycap light" data-matrix-row="3" data-matrix-col="2" id="g7849">
+        <rect class="outer border" height="52" rx="5" width="52" x="136" y="149.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="142" y="152.5"/>
+      <text text-anchor="middle" x="162.0" y="177.5">TILDE</text></g>
+      <g class="keycap light" data-matrix-row="2" data-matrix-col="2" id="g7859">
+        <rect class="outer border" height="52" rx="5" width="52" x="190" y="149.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="196" y="152.5"/>
+      <text text-anchor="middle" x="216.0" y="177.5">1</text></g>
+      <g class="keycap light" data-matrix-row="2" data-matrix-col="3" id="g7869">
+        <rect class="outer border" height="52" rx="5" width="52" x="244" y="149.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="250" y="152.5"/>
+      <text text-anchor="middle" x="270.0" y="177.5">2</text></g>
+      <g class="keycap light" data-matrix-row="2" data-matrix-col="4" id="g7879">
+        <rect class="outer border" height="52" rx="5" width="52" x="298" y="149.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="304" y="152.5"/>
+      <text text-anchor="middle" x="324.0" y="177.5">3</text></g>
+      <g class="keycap light" data-matrix-row="2" data-matrix-col="5" id="g7889">
+        <rect class="outer border" height="52" rx="5" width="52" x="352" y="149.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="358" y="152.5"/>
+      <text text-anchor="middle" x="378.0" y="177.5">4</text></g>
+      <g class="keycap light" data-matrix-row="3" data-matrix-col="5" id="g7899">
+        <rect class="outer border" height="52" rx="5" width="52" x="406" y="149.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="412" y="152.5"/>
+      <text text-anchor="middle" x="432.0" y="177.5">5</text></g>
+      <g class="keycap light" data-matrix-row="3" data-matrix-col="6" id="g7909">
+        <rect class="outer border" height="52" rx="5" width="52" x="460" y="149.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="466" y="152.5"/>
+      <text text-anchor="middle" x="486.0" y="177.5">6</text></g>
+      <g class="keycap light" data-matrix-row="2" data-matrix-col="6" id="g7919">
+        <rect class="outer border" height="52" rx="5" width="52" x="514" y="149.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="520" y="152.5"/>
+      <text text-anchor="middle" x="540.0" y="177.5">7</text></g>
+      <g class="keycap light" data-matrix-row="2" data-matrix-col="10" id="g7929">
+        <rect class="outer border" height="52" rx="5" width="52" x="568" y="149.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="574" y="152.5"/>
+      <text text-anchor="middle" x="594.0" y="177.5">8</text></g>
+      <g class="keycap light" data-matrix-row="2" data-matrix-col="11" id="g7939">
+        <rect class="outer border" height="52" rx="5" width="52" x="622" y="149.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="628" y="152.5"/>
+      <text text-anchor="middle" x="648.0" y="177.5">9</text></g>
+      <g class="keycap light" data-matrix-row="2" data-matrix-col="12" id="g7949">
+        <rect class="outer border" height="52" rx="5" width="52" x="676" y="149.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="682" y="152.5"/>
+      <text text-anchor="middle" x="702.0" y="177.5">0</text></g>
+      <g class="keycap light" data-matrix-row="3" data-matrix-col="12" id="g7959">
+        <rect class="outer border" height="52" rx="5" width="52" x="730" y="149.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="736" y="152.5"/>
+      <text text-anchor="middle" x="756.0" y="177.5">MINUS</text></g>
+      <g class="keycap light" data-matrix-row="3" data-matrix-col="10" id="g7969">
+        <rect class="outer border" height="52" rx="5" width="52" x="784" y="149.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="790" y="152.5"/>
+      <text text-anchor="middle" x="810.0" y="177.5">EQUAL</text></g>
+      <g class="keycap dark" data-matrix-row="3" data-matrix-col="13" id="g7979">
+        <rect class="outer border" height="52" rx="5" width="106" x="838" y="149.5"/>
+        <rect class="inner border" height="40" rx="5" width="94" x="844" y="152.5"/>
+      <text text-anchor="middle" x="864.0" y="177.5">BKSPC</text></g>
+      <g class="keycap dark" data-matrix-row="3" data-matrix-col="17" id="g7989">
+        <rect class="outer border" height="52" rx="5" width="52" x="959.5" y="149.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="965.5" y="152.5"/>
+      <text text-anchor="middle" x="985.5" y="177.5">INS</text></g>
+      <g class="keycap dark" data-matrix-row="3" data-matrix-col="16" id="g7999">
+        <rect class="outer border" height="52" rx="5" width="52" x="1013.5" y="149.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="1019.5" y="152.5"/>
+      <text text-anchor="middle" x="1039.5" y="177.5">HOME</text></g>
+      <g class="keycap dark" data-matrix-row="2" data-matrix-col="17" id="g8009">
+        <rect class="outer border" height="52" rx="5" width="52" x="1067.5" y="149.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="1073.5" y="152.5"/>
+      <text text-anchor="middle" x="1093.5" y="177.5">PGUP</text></g>
+      <g class="keycap dark" data-matrix-row="2" data-matrix-col="13" id="g8019">
+        <rect class="outer border" height="52" rx="5" width="52" x="1135" y="149.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="1141" y="152.5"/>
+      <text text-anchor="middle" x="1161.0" y="177.5">NUMLK</text></g>
+      <g class="keycap dark" data-matrix-row="2" data-matrix-col="16" id="g8029">
+        <rect class="outer border" height="52" rx="5" width="52" x="1189" y="149.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="1195" y="152.5"/>
+      <text text-anchor="middle" x="1215.0" y="177.5">SLASH</text></g>
+      <g class="keycap dark" data-matrix-row="2" data-matrix-col="14" id="g8039">
+        <rect class="outer border" height="52" rx="5" width="52" x="1243" y="149.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="1249" y="152.5"/>
+      <text text-anchor="middle" x="1269.0" y="177.5">ASTRX</text></g>
+      <g class="keycap dark" data-matrix-row="2" data-matrix-col="18" id="g8049">
+        <rect class="outer border" height="52" rx="5" width="52" x="1297" y="149.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="1303" y="152.5"/>
+      <text text-anchor="middle" x="1323.0" y="177.5">MINUS</text></g>
+      <g class="keycap dark" data-matrix-row="2" data-matrix-col="19" id="g8059">
+        <rect class="outer border" height="52" rx="5" width="52" x="1" y="203.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="7" y="206.5"/>
+      <text text-anchor="middle" x="27.0" y="231.5">NONE</text></g>
+      <g class="keycap dark" data-matrix-row="4" data-matrix-col="19" id="g8069">
+        <rect class="outer border" height="52" rx="5" width="52" x="55" y="203.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="61" y="206.5"/>
+      <text text-anchor="middle" x="81.0" y="231.5">NONE</text></g>
+      <g class="keycap dark" data-matrix-row="4" data-matrix-col="0" id="g8079">
+        <rect class="outer border" height="52" rx="5" width="79" x="136" y="203.5"/>
+        <rect class="inner border" height="40" rx="5" width="67" x="142" y="206.5"/>
+      <text text-anchor="middle" x="162.0" y="231.5">TAB</text></g>
+      <g class="keycap light" data-matrix-row="4" data-matrix-col="2" id="g8089">
+        <rect class="outer border" height="52" rx="5" width="52" x="217" y="203.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="223" y="206.5"/>
+      <text text-anchor="middle" x="243.0" y="231.5">Q</text></g>
+      <g class="keycap light" data-matrix-row="4" data-matrix-col="3" id="g8099">
+        <rect class="outer border" height="52" rx="5" width="52" x="271" y="203.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="277" y="206.5"/>
+      <text text-anchor="middle" x="297.0" y="231.5">W</text></g>
+      <g class="keycap light" data-matrix-row="4" data-matrix-col="4" id="g8109">
+        <rect class="outer border" height="52" rx="5" width="52" x="325" y="203.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="331" y="206.5"/>
+      <text text-anchor="middle" x="351.0" y="231.5">E</text></g>
+      <g class="keycap light" data-matrix-row="4" data-matrix-col="5" id="g8119">
+        <rect class="outer border" height="52" rx="5" width="52" x="379" y="203.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="385" y="206.5"/>
+      <text text-anchor="middle" x="405.0" y="231.5">R</text></g>
+      <g class="keycap light" data-matrix-row="5" data-matrix-col="5" id="g8129">
+        <rect class="outer border" height="52" rx="5" width="52" x="433" y="203.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="439" y="206.5"/>
+      <text text-anchor="middle" x="459.0" y="231.5">T</text></g>
+      <g class="keycap light" data-matrix-row="5" data-matrix-col="6" id="g8139">
+        <rect class="outer border" height="52" rx="5" width="52" x="487" y="203.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="493" y="206.5"/>
+      <text text-anchor="middle" x="513.0" y="231.5">Y</text></g>
+      <g class="keycap light" data-matrix-row="4" data-matrix-col="6" id="g8149">
+        <rect class="outer border" height="52" rx="5" width="52" x="541" y="203.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="547" y="206.5"/>
+      <text text-anchor="middle" x="567.0" y="231.5">U</text></g>
+      <g class="keycap light" data-matrix-row="4" data-matrix-col="10" id="g8159">
+        <rect class="outer border" height="52" rx="5" width="52" x="595" y="203.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="601" y="206.5"/>
+      <text text-anchor="middle" x="621.0" y="231.5">I</text></g>
+      <g class="keycap light" data-matrix-row="4" data-matrix-col="11" id="g8169">
+        <rect class="outer border" height="52" rx="5" width="52" x="649" y="203.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="655" y="206.5"/>
+      <text text-anchor="middle" x="675.0" y="231.5">O</text></g>
+      <g class="keycap light" data-matrix-row="4" data-matrix-col="12" id="g8179">
+        <rect class="outer border" height="52" rx="5" width="52" x="703" y="203.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="709" y="206.5"/>
+      <text text-anchor="middle" x="729.0" y="231.5">P</text></g>
+      <g class="keycap light" data-matrix-row="5" data-matrix-col="12" id="g8189">
+        <rect class="outer border" height="52" rx="5" width="52" x="757" y="203.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="763" y="206.5"/>
+      <text text-anchor="middle" x="783.0" y="231.5">LBRCE</text></g>
+      <g class="keycap light" data-matrix-row="5" data-matrix-col="10" id="g8199">
+        <rect class="outer border" height="52" rx="5" width="52" x="811" y="203.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="817" y="206.5"/>
+      <text text-anchor="middle" x="837.0" y="231.5">RBRCE</text></g>
+      <g class="keycap dark" data-matrix-row="6" data-matrix-col="13" id="g8217">
+        <rect class="outer border" height="106" rx="5" width="65.5" x="878.5" y="203.5"/>
+        <rect class="outer border" height="52" rx="5" width="79" x="865" y="203.5"/>
+        <rect class="inner border" height="94" rx="5" width="53.5" x="884.5" y="206.5"/>
+        <rect class="inner border" height="40" rx="5" width="67" x="871" y="206.5"/>
+        <rect class="inner border" height="40" rx="5" width="67" x="871" y="206.5"/>
+        <rect class="outer" height="106" rx="5" width="65.5" x="878.5" y="203.5"/>
+        <rect class="outer" height="52" rx="5" width="79" x="865" y="203.5"/>
+        <rect class="inner" height="94" rx="5" width="53.5" x="884.5" y="206.5"/>
+        <rect class="inner" height="40" rx="5" width="67" x="871" y="206.5"/>
+        <rect class="inner" height="40" rx="5" width="67" x="871" y="206.5"/>
+      <text text-anchor="middle" x="904.5" y="231.5">ENTER</text></g>
+      <g class="keycap dark" data-matrix-row="1" data-matrix-col="17" id="g8227">
+        <rect class="outer border" height="52" rx="5" width="52" x="959.5" y="203.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="965.5" y="206.5"/>
+      <text text-anchor="middle" x="985.5" y="231.5">DEL</text></g>
+      <g class="keycap dark" data-matrix-row="5" data-matrix-col="17" id="g8237">
+        <rect class="outer border" height="52" rx="5" width="52" x="1013.5" y="203.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="1019.5" y="206.5"/>
+      <text text-anchor="middle" x="1039.5" y="231.5">END</text></g>
+      <g class="keycap dark" data-matrix-row="4" data-matrix-col="17" id="g8247">
+        <rect class="outer border" height="52" rx="5" width="52" x="1067.5" y="203.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="1073.5" y="206.5"/>
+      <text text-anchor="middle" x="1093.5" y="231.5">PGDN</text></g>
+      <g class="keycap light" data-matrix-row="4" data-matrix-col="13" id="g8257">
+        <rect class="outer border" height="52" rx="5" width="52" x="1135" y="203.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="1141" y="206.5"/>
+      <text text-anchor="middle" x="1161.0" y="231.5">7</text></g>
+      <g class="keycap light" data-matrix-row="4" data-matrix-col="16" id="g8267">
+        <rect class="outer border" height="52" rx="5" width="52" x="1189" y="203.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="1195" y="206.5"/>
+      <text text-anchor="middle" x="1215.0" y="231.5">8</text></g>
+      <g class="keycap light" data-matrix-row="4" data-matrix-col="14" id="g8277">
+        <rect class="outer border" height="52" rx="5" width="52" x="1243" y="203.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="1249" y="206.5"/>
+      <text text-anchor="middle" x="1269.0" y="231.5">9</text></g>
+      <g class="keycap dark" data-matrix-row="4" data-matrix-col="18" id="g8287">
+        <rect class="outer border" height="52" rx="5" width="52" x="1297" y="203.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="1303" y="206.5"/>
+      <text text-anchor="middle" x="1323.0" y="231.5">NONE</text></g>
+      <g class="keycap dark" data-matrix-row="5" data-matrix-col="19" id="g8297">
+        <rect class="outer border" height="52" rx="5" width="52" x="1" y="257.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="7" y="260.5"/>
+      <text text-anchor="middle" x="27.0" y="285.5">PSCRN</text></g>
+      <g class="keycap dark" data-matrix-row="5" data-matrix-col="0" id="g8307">
+        <rect class="outer border" height="52" rx="5" width="52" x="55" y="257.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="61" y="260.5"/>
+      <text text-anchor="middle" x="81.0" y="285.5">NONE</text></g>
+      <g class="keycap dark" data-matrix-row="6" data-matrix-col="0" id="g8317">
+        <rect class="outer border" height="52" rx="5" width="92.5" x="136" y="257.5"/>
+        <rect class="inner border" height="40" rx="5" width="80.5" x="142" y="260.5"/>
+      <text text-anchor="middle" x="162.0" y="285.5">CAPLK</text></g>
+      <g class="keycap light" data-matrix-row="1" data-matrix-col="2" id="g8327">
+        <rect class="outer border" height="52" rx="5" width="52" x="230.5" y="257.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="236.5" y="260.5"/>
+      <text text-anchor="middle" x="256.5" y="285.5">A</text></g>
+      <g class="keycap light" data-matrix-row="1" data-matrix-col="3" id="g8337">
+        <rect class="outer border" height="52" rx="5" width="52" x="284.5" y="257.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="290.5" y="260.5"/>
+      <text text-anchor="middle" x="310.5" y="285.5">S</text></g>
+      <g class="keycap light" data-matrix-row="1" data-matrix-col="4" id="g8347">
+        <rect class="outer border" height="52" rx="5" width="52" x="338.5" y="257.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="344.5" y="260.5"/>
+      <text text-anchor="middle" x="364.5" y="285.5">D</text></g>
+      <g class="keycap light" data-matrix-row="1" data-matrix-col="5" id="g8357">
+        <rect class="outer border" height="52" rx="5" width="52" x="392.5" y="257.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="398.5" y="260.5"/>
+      <text text-anchor="middle" x="418.5" y="285.5">F</text></g>
+      <g class="keycap light" data-matrix-row="0" data-matrix-col="5" id="g8367">
+        <rect class="outer border" height="52" rx="5" width="52" x="446.5" y="257.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="452.5" y="260.5"/>
+      <text text-anchor="middle" x="472.5" y="285.5">G</text></g>
+      <g class="keycap light" data-matrix-row="0" data-matrix-col="6" id="g8377">
+        <rect class="outer border" height="52" rx="5" width="52" x="500.5" y="257.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="506.5" y="260.5"/>
+      <text text-anchor="middle" x="526.5" y="285.5">H</text></g>
+      <g class="keycap light" data-matrix-row="1" data-matrix-col="6" id="g8387">
+        <rect class="outer border" height="52" rx="5" width="52" x="554.5" y="257.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="560.5" y="260.5"/>
+      <text text-anchor="middle" x="580.5" y="285.5">J</text></g>
+      <g class="keycap light" data-matrix-row="1" data-matrix-col="10" id="g8397">
+        <rect class="outer border" height="52" rx="5" width="52" x="608.5" y="257.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="614.5" y="260.5"/>
+      <text text-anchor="middle" x="634.5" y="285.5">K</text></g>
+      <g class="keycap light" data-matrix-row="1" data-matrix-col="11" id="g8407">
+        <rect class="outer border" height="52" rx="5" width="52" x="662.5" y="257.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="668.5" y="260.5"/>
+      <text text-anchor="middle" x="688.5" y="285.5">L</text></g>
+      <g class="keycap light" data-matrix-row="1" data-matrix-col="12" id="g8417">
+        <rect class="outer border" height="52" rx="5" width="52" x="716.5" y="257.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="722.5" y="260.5"/>
+      <text text-anchor="middle" x="742.5" y="285.5">SMCLN</text></g>
+      <g class="keycap light" data-matrix-row="0" data-matrix-col="12" id="g8427">
+        <rect class="outer border" height="52" rx="5" width="52" x="770.5" y="257.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="776.5" y="260.5"/>
+      <text text-anchor="middle" x="796.5" y="285.5">QUOTE</text></g>
+      <g class="keycap light" data-matrix-row="6" data-matrix-col="12" id="g8437">
+        <rect class="outer border" height="52" rx="5" width="52" x="824.5" y="257.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="830.5" y="260.5"/>
+      <text text-anchor="middle" x="850.5" y="285.5">BSLSH</text></g>
+      <g class="keycap dark" data-matrix-row="0" data-matrix-col="17" id="g8447">
+        <rect class="outer border" height="52" rx="5" width="52" x="1013.5" y="257.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="1019.5" y="260.5"/>
+      <text text-anchor="middle" x="1039.5" y="285.5">UP</text></g>
+      <g class="keycap light" data-matrix-row="1" data-matrix-col="13" id="g8457">
+        <rect class="outer border" height="52" rx="5" width="52" x="1135" y="257.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="1141" y="260.5"/>
+      <text text-anchor="middle" x="1161.0" y="285.5">4</text></g>
+      <g class="keycap light" data-matrix-row="1" data-matrix-col="16" id="g8467">
+        <rect class="outer border" height="52" rx="5" width="52" x="1189" y="257.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="1195" y="260.5"/>
+      <text text-anchor="middle" x="1215.0" y="285.5">5</text></g>
+      <g class="keycap light" data-matrix-row="1" data-matrix-col="14" id="g8477">
+        <rect class="outer border" height="52" rx="5" width="52" x="1243" y="257.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="1249" y="260.5"/>
+      <text text-anchor="middle" x="1269.0" y="285.5">6</text></g>
+      <g class="keycap dark" data-matrix-row="1" data-matrix-col="18" id="g8487">
+        <rect class="outer border" height="52" rx="5" width="52" x="1297" y="257.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="1303" y="260.5"/>
+      <text text-anchor="middle" x="1323.0" y="285.5">PLUS</text></g>
+      <g class="keycap dark" data-matrix-row="1" data-matrix-col="19" id="g8497">
+        <rect class="outer border" height="52" rx="5" width="52" x="1" y="311.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="7" y="314.5"/>
+      <text text-anchor="middle" x="27.0" y="339.5">NONE</text></g>
+      <g class="keycap dark" data-matrix-row="1" data-matrix-col="0" id="g8507">
+        <rect class="outer border" height="52" rx="5" width="52" x="55" y="311.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="61" y="314.5"/>
+      <text text-anchor="middle" x="81.0" y="339.5">NONE</text></g>
+      <g class="keycap dark" data-matrix-row="7" data-matrix-col="1" id="g8517">
+        <rect class="outer border" height="52" rx="5" width="65.5" x="136" y="311.5"/>
+        <rect class="inner border" height="40" rx="5" width="53.5" x="142" y="314.5"/>
+      <text text-anchor="middle" x="162.0" y="339.5">LSHFT</text></g>
+      <g class="keycap light" data-matrix-row="7" data-matrix-col="2" id="g8527">
+        <rect class="outer border" height="52" rx="5" width="52" x="203.5" y="311.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="209.5" y="314.5"/>
+      <text text-anchor="middle" x="229.5" y="339.5">PIPE</text></g>
+      <g class="keycap light" data-matrix-row="6" data-matrix-col="2" id="g8537">
+        <rect class="outer border" height="52" rx="5" width="52" x="257.5" y="311.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="263.5" y="314.5"/>
+      <text text-anchor="middle" x="283.5" y="339.5">Z</text></g>
+      <g class="keycap light" data-matrix-row="6" data-matrix-col="3" id="g8547">
+        <rect class="outer border" height="52" rx="5" width="52" x="311.5" y="311.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="317.5" y="314.5"/>
+      <text text-anchor="middle" x="337.5" y="339.5">X</text></g>
+      <g class="keycap light" data-matrix-row="6" data-matrix-col="4" id="g8557">
+        <rect class="outer border" height="52" rx="5" width="52" x="365.5" y="311.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="371.5" y="314.5"/>
+      <text text-anchor="middle" x="391.5" y="339.5">C</text></g>
+      <g class="keycap light" data-matrix-row="6" data-matrix-col="5" id="g8567">
+        <rect class="outer border" height="52" rx="5" width="52" x="419.5" y="311.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="425.5" y="314.5"/>
+      <text text-anchor="middle" x="445.5" y="339.5">V</text></g>
+      <g class="keycap light" data-matrix-row="7" data-matrix-col="5" id="g8577">
+        <rect class="outer border" height="52" rx="5" width="52" x="473.5" y="311.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="479.5" y="314.5"/>
+      <text text-anchor="middle" x="499.5" y="339.5">B</text></g>
+      <g class="keycap light" data-matrix-row="7" data-matrix-col="6" id="g8587">
+        <rect class="outer border" height="52" rx="5" width="52" x="527.5" y="311.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="533.5" y="314.5"/>
+      <text text-anchor="middle" x="553.5" y="339.5">N</text></g>
+      <g class="keycap light" data-matrix-row="6" data-matrix-col="6" id="g8597">
+        <rect class="outer border" height="52" rx="5" width="52" x="581.5" y="311.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="587.5" y="314.5"/>
+      <text text-anchor="middle" x="607.5" y="339.5">M</text></g>
+      <g class="keycap light" data-matrix-row="6" data-matrix-col="10" id="g8607">
+        <rect class="outer border" height="52" rx="5" width="52" x="635.5" y="311.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="641.5" y="314.5"/>
+      <text text-anchor="middle" x="661.5" y="339.5">COMMA</text></g>
+      <g class="keycap light" data-matrix-row="6" data-matrix-col="11" id="g8617">
+        <rect class="outer border" height="52" rx="5" width="52" x="689.5" y="311.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="695.5" y="314.5"/>
+      <text text-anchor="middle" x="715.5" y="339.5">DOT</text></g>
+      <g class="keycap light" data-matrix-row="7" data-matrix-col="12" id="g8627">
+        <rect class="outer border" height="52" rx="5" width="52" x="743.5" y="311.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="749.5" y="314.5"/>
+      <text text-anchor="middle" x="769.5" y="339.5">SLASH</text></g>
+      <g class="keycap dark" data-matrix-row="6" data-matrix-col="1" id="g8637">
+        <rect class="outer border" height="52" rx="5" width="146.5" x="797.5" y="311.5"/>
+        <rect class="inner border" height="40" rx="5" width="134.5" x="803.5" y="314.5"/>
+      <text text-anchor="middle" x="823.5" y="339.5">RSHFT</text></g>
+      <g class="keycap dark" data-matrix-row="6" data-matrix-col="18" id="g8647">
+        <rect class="outer border" height="52" rx="5" width="52" x="959.5" y="311.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="965.5" y="314.5"/>
+      <text text-anchor="middle" x="985.5" y="339.5">LEFT</text></g>
+      <g class="keycap dark" data-matrix-row="0" data-matrix-col="15" id="g8657">
+        <rect class="outer border" height="52" rx="5" width="52" x="1013.5" y="311.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="1019.5" y="314.5"/>
+      <text text-anchor="middle" x="1039.5" y="339.5">NONE</text></g>
+      <g class="keycap dark" data-matrix-row="1" data-matrix-col="15" id="g8667">
+        <rect class="outer border" height="52" rx="5" width="52" x="1067.5" y="311.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="1073.5" y="314.5"/>
+      <text text-anchor="middle" x="1093.5" y="339.5">RIGHT</text></g>
+      <g class="keycap light" data-matrix-row="6" data-matrix-col="19" id="g8677">
+        <rect class="outer border" height="52" rx="5" width="52" x="1135" y="311.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="1141" y="314.5"/>
+      <text text-anchor="middle" x="1161.0" y="339.5">1</text></g>
+      <g class="keycap light" data-matrix-row="6" data-matrix-col="16" id="g8687">
+        <rect class="outer border" height="52" rx="5" width="52" x="1189" y="311.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="1195" y="314.5"/>
+      <text text-anchor="middle" x="1215.0" y="339.5">2</text></g>
+      <g class="keycap light" data-matrix-row="6" data-matrix-col="14" id="g8697">
+        <rect class="outer border" height="52" rx="5" width="52" x="1243" y="311.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="1249" y="314.5"/>
+      <text text-anchor="middle" x="1269.0" y="339.5">3</text></g>
+      <g class="keycap dark" data-matrix-row="7" data-matrix-col="15" id="g8707">
+        <rect class="outer border" height="106" rx="5" width="52" x="1297" y="311.5"/>
+        <rect class="inner border" height="94" rx="5" width="40" x="1303" y="314.5"/>
+      <text text-anchor="middle" x="1323.0" y="339.5">ENTER</text></g>
+      <g class="keycap dark" data-matrix-row="0" data-matrix-col="0" id="g8717">
+        <rect class="outer border" height="52" rx="5" width="52" x="1" y="365.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="7" y="368.5"/>
+      <text text-anchor="middle" x="27.0" y="393.5">TAB</text></g>
+      <g class="keycap dark" data-matrix-row="0" data-matrix-col="19" id="g8727">
+        <rect class="outer border" height="52" rx="5" width="52" x="55" y="365.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="61" y="368.5"/>
+      <text text-anchor="middle" x="81.0" y="393.5">PAUSE</text></g>
+      <g class="keycap dark" data-matrix-row="0" data-matrix-col="18" id="g8737">
+        <rect class="outer border" height="52" rx="5" width="79" x="136" y="365.5"/>
+        <rect class="inner border" height="40" rx="5" width="67" x="142" y="368.5"/>
+      <text text-anchor="middle" x="162.0" y="393.5">LCTRL</text></g>
+      <g class="keycap dark" data-matrix-row="7" data-matrix-col="18" id="g8747">
+        <rect class="outer border" height="52" rx="5" width="65.5" x="271" y="365.5"/>
+        <rect class="inner border" height="40" rx="5" width="53.5" x="277" y="368.5"/>
+      <text text-anchor="middle" x="297.0" y="393.5">LALT</text></g>
+      <g class="keycap light" data-matrix-row="7" data-matrix-col="19" id="g8757">
+        <rect class="outer border" height="52" rx="5" width="389.5" x="338.5" y="365.5"/>
+        <rect class="inner border" height="40" rx="5" width="377.5" x="344.5" y="368.5"/>
+      <text text-anchor="middle" x="364.5" y="393.5">SPACE</text></g>
+      <g class="keycap dark" data-matrix-row="0" data-matrix-col="1" id="g8767">
+        <rect class="outer border" height="52" rx="5" width="92.5" x="730" y="365.5"/>
+        <rect class="inner border" height="40" rx="5" width="80.5" x="736" y="368.5"/>
+      <text text-anchor="middle" x="756.0" y="393.5">RALT</text></g>
+      <g class="keycap dark" data-matrix-row="7" data-matrix-col="0" id="g8777">
+        <rect class="outer border" height="52" rx="5" width="65.5" x="878.5" y="365.5"/>
+        <rect class="inner border" height="40" rx="5" width="53.5" x="884.5" y="368.5"/>
+      <text text-anchor="middle" x="904.5" y="393.5">RCTRL</text></g>
+      <g class="keycap dark" data-matrix-row="0" data-matrix-col="13" id="g8787">
+        <rect class="outer border" height="52" rx="5" width="52" x="1013.5" y="365.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="1019.5" y="368.5"/>
+      <text text-anchor="middle" x="1039.5" y="393.5">DOWN</text></g>
+      <g class="keycap light" data-matrix-row="7" data-matrix-col="16" id="g8797">
+        <rect class="outer border" height="52" rx="5" width="106" x="1135" y="365.5"/>
+        <rect class="inner border" height="40" rx="5" width="94" x="1141" y="368.5"/>
+      <text text-anchor="middle" x="1161.0" y="393.5">0</text></g>
+      <g class="keycap light" data-matrix-row="7" data-matrix-col="14" id="g8807">
+        <rect class="outer border" height="52" rx="5" width="52" x="1243" y="365.5"/>
+        <rect class="inner border" height="40" rx="5" width="40" x="1249" y="368.5"/>
+      <text text-anchor="middle" x="1269.0" y="393.5">DOT</text></g>
+    </g>
+  </g>
+</svg>
