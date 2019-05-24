@@ -171,7 +171,8 @@ function setSelectedKeycode(){
 
 // Match lines of the form '#define KB_CODE 1234 // some comment'
 // Capturing "KB_CODE", "1234" and "some comment"
-const keycodeRE = /^#define[ ]+([a-zA-Z0-9_]+)[ ]+((?:0x[0-9a-f]+)|[0-9]+)[ ]*(?:\/\/[ ]*(.*))?$/;
+const keycodeRE = /^#define\s+([a-zA-Z0-9_]+)\s+((?:0x[0-9a-f]+)|[0-9]+)\s*(?:\/\/\s*(.*))?$/;
+
 
 function parseDefinition(str){
   let res = keycodeRE.exec(str);
