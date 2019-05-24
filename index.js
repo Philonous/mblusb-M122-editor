@@ -32,7 +32,7 @@ function writeLayout() {
 
 // Read a key from the layout (position)
 function layoutRead(row, col) {
-  let ix = col*layoutColumns + row;
+  let ix = row*layoutColumns + col;
   return layout[ix] || 0;
 }
 
@@ -98,7 +98,7 @@ function lookupKeyname(keycode) {
 // Update the key captions in the SVG with the current layout.
 function updateKeys() {
   withKeys(function(row,col,el) {
-    let keycode=layoutRead(col,row);
+    let keycode=layoutRead(row, col);
     let label="error";
     if (keycapDisplayMode === 'decimal') {
       label=keycode.toString(10);
@@ -212,10 +212,10 @@ function loadKeycodes() {
 window.addEventListener("load", function() {
   writeLayout();
   updateKeys();
-  withKeys( function (x,y,key){
+  withKeys( function (row,col,key){
     // key.getElementsByTagName("text")[0].innerHTML=(x+"/"+y);
-    key.onmouseover=function(){showHover(x+"/"+y);};
-    key.onclick=function(){selectKey(x,y,key)};
+    key.onmouseover=function(){showHover(row+"/"+col);};
+    key.onclick=function(){selectKey(row,col,key)};
   });
   loadKeycodes();
 
