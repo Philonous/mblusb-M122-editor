@@ -38,7 +38,7 @@ function layoutRead(row, col) {
 
 // Write a new key definition into a layout position
 function layoutWrite(row, col,v) {
-  let ix = col*layoutColumns + row;
+  let ix = row*layoutColumns + col;
   layout[ix]=v;
 }
 
@@ -155,14 +155,16 @@ function selectKey(row, column, key) {
   showSelected (row+"/"+column);
   let selectedKeycode = layoutRead(row,column);
   showKeycode(selectedKeycode);
-  selected = [row,column];
+  selected = { row: row ,
+               col: column
+             };
   selectedElem = key;
   selectedElem.setAttribute("selected", "true");
 }
 
 function setSelectedKeycode(){
-  let row = selected[0];
-  let column = selected[1];
+  let row = selected.row;
+  let column = selected.col;
   let selectedKeyCode = document.getElementById("selected-keycode").value;
   layoutWrite(row,column,parseInt(selectedKeyCode));
   writeLayout();
