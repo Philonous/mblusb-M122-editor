@@ -1,0 +1,11 @@
+tr {
+    width: 100%;
+    display: inline-table;
+    table-layout: fixed;
+}
+
+.table-scroll {
+    overflow-y: scroll;
+    height: 450px;
+    width: 30em;
+}
