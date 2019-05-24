@@ -5,6 +5,7 @@
     <meta charset="ISO-8859-1">
     <script src="index.js"> </script>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="styles.css">
   </header>
 
   <body>
@@ -34,9 +35,37 @@
       </label>
 
     </div>
-    <div id="pic">
-      <object type="image/svg+xml" data="keyboard.svg" id="keyboard-svg">
-      </object>
+    <div class="container-fluid">
+      <div class="row" width="100%">
+        <div class="col-8">
+          <div id="pic">
+            <object type="image/svg+xml" data="keyboard.svg" id="keyboard-svg" width="100%">
+            </object>
+          </div>
+        </div>
+        <div class="col-4">
+          <div class="input-group">
+            <div class="input-group-prepend"><span class="input-group-text">Filter</span></div>
+            <input type="text" class="form-controll" id="keycode-table-filter" placeholder="Display All"
+                   oninput="keycodeTableChanged()"
+                   >
+          </div>
+          <div class="table-responsive table-scroll">
+            <table class="table table-sm table-bordered table-hover" id="keycode-table">
+              <thead>
+                <tr id="keycodes-table-head">
+                  <th>Code</th>
+                  <th>Hex</th>
+                  <th>Name</th>
+                  <th>Comment</th>
+                </tr>
+              </thead>
+              <tbody id="keycode-table-body">
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
     </div>
     <div class="container-fluid">
       <div class="row">
@@ -56,11 +85,11 @@
         <div class="col">
           Keycode:
           <input type=text id="selected-keycode" onkbenter="setSelectedKeycode()">
-          <button class="btn" onclick="setSelectedKeycode()">Set</button>
+          <button class="btn btn-secondary" onclick="setSelectedKeycode()">Set</button>
         </div>
       </div> <!-- row -->
     </div>   <!-- container -->
-    <textarea id="layoutinput" cols="100" >Enter your layout here</textarea>
-    <button onclick="readLayout()">Set layout</button>
+    <textarea id="layoutinput" cols="100" rows="5" >Enter your layout here</textarea>
+    <button class="btn btn-secondary"onclick="readLayout()">Set layout</button>
   </body>
 </html>

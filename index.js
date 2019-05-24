@@ -105,7 +105,11 @@ function updateKeys() {
     } else if (keycapDisplayMode === 'hex') {
       label="0x" + keycode.toString(16);
     } else if (keycapDisplayMode === 'name') {
-      label=lookupKeyname(keycode);
+      if (keycode === 0){
+        label="";
+      } else {
+        label=lookupKeyname(keycode);
+      }
     } else if (keycapDisplayMode === 'matrix') {
       label=row+"/"+col;
     }
@@ -182,10 +186,8 @@ function parseDefinition(str){
     res = {
       code: parseInt(res[2]),
       name: res[1],
-      comment: res[3]
+      comment: res[3] || ""
     };
-    console.log(res);
-
     return res;
   } else
   {
@@ -193,7 +195,54 @@ function parseDefinition(str){
   }
 }
 
-// Fetch keycode from external file and parse.
+
+function filterKeycodeTable(regex) {
+  let table=document.getElementById("keycode-table-body");
+  table.childNodes.forEach((tr) => {
+    let tds = tr.childNodes;
+    let tmp = "";
+    for (let i=0; i<tds.length; i++){
+      tmp += tds[i].textContent + " ";
+    }
+
+    let re = new RegExp(regex, "i");
+    if (re.exec(tmp)) {
+      tr.classList.remove("d-none");
+    } else
+    {
+      tr.classList.add("d-none");
+    }
+  });
+}
+
+function keycodeTableChanged() {
+  filterKeycodeTable(document.getElementById("keycode-table-filter").value);
+}
+
+// Update the table of known keycodes with the ones stored
+function updateKeycodeTable() {
+  let keytable = document.getElementById("keycode-table-body");
+  while (keytable.firstChild) { keytable.removeChild(keytable.firstChild); }
+  keycodes.forEach((key) => {
+    let tr = document.createElement("tr");
+    let tdCode = document.createElement("td");
+    let tdHex = document.createElement("td");
+    let tdName = document.createElement("td");
+    let tdComment = document.createElement("td");
+    tdCode.innerHTML=key.code;
+    tdHex.innerHTML="0x"+key.code.toString(16);
+    tdName.innerHTML=key.name;
+    tdComment.innerHTML=key.comment;
+    tr.appendChild(tdCode);
+    tr.appendChild(tdHex);
+    tr.appendChild(tdName);
+    tr.appendChild(tdComment);
+    tr.onclick=(()=>showKeycode(key.code));
+    keytable.appendChild(tr);
+  });
+}
+
+// Fetch keycode from external file, parse and set in the table.
 function loadKeycodes() {
   let tmp = [];
   fetch('keycodes.txt')
@@ -207,7 +256,7 @@ function loadKeycodes() {
       }
                               );
       keycodes = tmp;
-
+      updateKeycodeTable();
     });
 }
 
@@ -225,7 +274,7 @@ window.addEventListener("load", function() {
   let inputs = document.getElementsByTagName("input");
   for (let i=0; i<inputs.length; i++) {
     let el = inputs[i];
-    let action = el.getAttribute("onkbenter");
+    let onkbenterAction = el.getAttribute("onkbenter");
     if (el) {
       el.addEventListener("keyup", (event) => {
         // Number 13 is the "Enter" key on the keyboard
@@ -233,12 +282,10 @@ window.addEventListener("load", function() {
           // Cancel the default action, if needed
           event.preventDefault();
           // Trigger the button element with a click
-          eval(action);
+          eval(onkbenterAction);
         };
       });
     }
   };
 
   });
-
-console.log("test");
